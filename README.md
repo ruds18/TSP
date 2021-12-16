@@ -1,5 +1,5 @@
 # TSP
-Web Visualizer of Solutions for Travelling Salesman Problem (Dynamic Programming, Backtracking and Genetic Algorithm)
+ Visualizer  for Travelling Salesman Problem (Dynamic Programming, Backtracking and Genetic Algorithm)
 
 [Try here](https://lafifii.github.io/TSP/)
 
