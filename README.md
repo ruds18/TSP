@@ -17,8 +17,6 @@ Each node or city can be located by just clicking on the map shown and after tha
 
 ## UI
 
-<img src="./assets/main.png" />
-
 <img src="./assets/UI.png" />
 
 
