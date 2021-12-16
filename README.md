@@ -10,6 +10,8 @@
 
 [https://ruds18.github.io/TSP/](https://ruds18.github.io/TSP/)
 
+Each node or city can be located by just clicking on the map shown and after that select the one the three alog's to perform Travelling Salesman Problem.
+
 <img src="./assets/demo.gif" />
 
 ## Run Locally
